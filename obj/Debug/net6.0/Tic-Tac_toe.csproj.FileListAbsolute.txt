@@ -1,0 +1,15 @@
+/Users/mazo/Vianna/Projetos C#/Tic-Tac_toe/bin/Debug/net6.0/Tic-Tac_toe
+/Users/mazo/Vianna/Projetos C#/Tic-Tac_toe/bin/Debug/net6.0/Tic-Tac_toe.deps.json
+/Users/mazo/Vianna/Projetos C#/Tic-Tac_toe/bin/Debug/net6.0/Tic-Tac_toe.runtimeconfig.json
+/Users/mazo/Vianna/Projetos C#/Tic-Tac_toe/bin/Debug/net6.0/Tic-Tac_toe.dll
+/Users/mazo/Vianna/Projetos C#/Tic-Tac_toe/bin/Debug/net6.0/Tic-Tac_toe.pdb
+/Users/mazo/Vianna/Projetos C#/Tic-Tac_toe/obj/Debug/net6.0/Tic-Tac_toe.csproj.AssemblyReference.cache
+/Users/mazo/Vianna/Projetos C#/Tic-Tac_toe/obj/Debug/net6.0/Tic-Tac_toe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mazo/Vianna/Projetos C#/Tic-Tac_toe/obj/Debug/net6.0/Tic-Tac_toe.AssemblyInfoInputs.cache
+/Users/mazo/Vianna/Projetos C#/Tic-Tac_toe/obj/Debug/net6.0/Tic-Tac_toe.AssemblyInfo.cs
+/Users/mazo/Vianna/Projetos C#/Tic-Tac_toe/obj/Debug/net6.0/Tic-Tac_toe.csproj.CoreCompileInputs.cache
+/Users/mazo/Vianna/Projetos C#/Tic-Tac_toe/obj/Debug/net6.0/Tic-Tac_toe.dll
+/Users/mazo/Vianna/Projetos C#/Tic-Tac_toe/obj/Debug/net6.0/refint/Tic-Tac_toe.dll
+/Users/mazo/Vianna/Projetos C#/Tic-Tac_toe/obj/Debug/net6.0/Tic-Tac_toe.pdb
+/Users/mazo/Vianna/Projetos C#/Tic-Tac_toe/obj/Debug/net6.0/Tic-Tac_toe.genruntimeconfig.cache
+/Users/mazo/Vianna/Projetos C#/Tic-Tac_toe/obj/Debug/net6.0/ref/Tic-Tac_toe.dll
